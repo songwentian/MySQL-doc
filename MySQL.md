@@ -28,7 +28,7 @@
  - 命令：mysql> select database();
  
 *创建表*
- - 命令：create table <表名>
+ - 命令：create table <表名> (
  
 *查看表结构*
  - desc <表名>
