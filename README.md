@@ -5,3 +5,5 @@
 - [Git的相关操作和基本指令](day2/Git.md)
 
 - [MySQL的相关操作和基本指令](day3/MySQL.md)
+
+- [CGI的相关操作和基本指令](day4/CGI.md)
