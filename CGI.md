@@ -38,6 +38,7 @@ install:
 
 ## Atom editor 开环境使用的插件
 
+```
 - activate-power-mode：动感插件 atl + ctrl + o :打开插件
 - vim-mode：vim模式
 - ex-mode：实现:w功能
@@ -55,3 +56,5 @@ install:
 - atom-clock: 在bar显示 时间
 - autocomplete-js-import: 模块导入智能提示
 - autocomplete-modules: 模块智能提示【node_modules】
+```
+
