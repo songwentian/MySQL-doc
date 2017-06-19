@@ -27,3 +27,12 @@ sudo mkdir /usr/lib/cgi-bin/sx
 sudo chmod 777 /usr/lib/cgi-bin/sx
 ```
 
+ **Makefile**
+
+- vim Makefile
+
+```
+install:
+	cp *.cgi /usr/lib/cgi-bin/sx
+```
+
