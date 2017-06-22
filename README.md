@@ -10,7 +10,7 @@
 
 - [第五天](day5/day5.md)
 
-- [第六-八天](day6-8/day6-8)
+- [第六-八天](day6-8/day6-8.md)
 
 - [Linux的相关操作和基本指令](day1/Linux.md)
 
